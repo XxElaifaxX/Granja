@@ -1,8 +1,8 @@
 <?php
 // Datos de conexión
-$dsn = "oci:dbname=//localhost/XE;charset=UTF8"; // Cambia "XE" por el SID o servicio de tu base de datos Oracle
-$username = "granja_user";
-$password = "contraseña";
+$dsn = "oci:dbname=//localhost/xe;charset=UTF8"; // Cambia "XE" por el SID o servicio de tu base de datos Oracle
+$username = "Jiji";
+$password = "29789811";
 
 try {
     // Conexión a Oracle con PDO
